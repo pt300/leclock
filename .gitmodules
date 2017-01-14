@@ -1,0 +1,3 @@
+[submodule "dix"]
+	path = dix
+	url = https://github.com/pt300/dix.git
